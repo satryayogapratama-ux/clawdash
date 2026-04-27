@@ -1,5 +1,9 @@
 # ClawDash - OpenClaw Real-Time Observability Dashboard
 
+> **Status: Production · Self-hosted** — Actively used in production by the author. Open-source and available for deployment.
+
+![Status](https://img.shields.io/badge/Status-Production%20Self--hosted-brightgreen.svg)
+
 A lightweight, real-time web dashboard for monitoring OpenClaw deployments. ClawDash provides instant visibility into active sessions, token usage, costs, cron jobs, and workspace memory metrics.
 
 ## Features
